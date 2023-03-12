@@ -102,4 +102,4 @@ action:
         data:
           entity_id: !input 'heating'
 
-mode: single
+mode: restart
